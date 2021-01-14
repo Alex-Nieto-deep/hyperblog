@@ -8,7 +8,7 @@ body {
     width: 70%;
     padding: 1em;
     text-align: left;
-    background-repeat: 1px solid #dddddd;
+    border: 1px solid #dddddd;
     margin: 0 auto;
 }
 #container h1 {
